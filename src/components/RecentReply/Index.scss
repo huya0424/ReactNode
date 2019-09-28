@@ -1,0 +1,36 @@
+.recent-reply {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    padding: 20px;
+    color: #000;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+
+    header {
+        font-weight: bold;
+    }
+    > div {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+
+        .time {
+            float: right;
+            font-size: 11px;
+            color: #777;
+        }
+        .inside-divider {
+            margin:  10px 0;
+        }
+    }
+    img {
+        margin-right: 5px;
+        width: 30px;
+        height: 30px;
+        border-radius: 3px;
+    }
+
+    .divider {
+        margin: 20px 0;
+    }
+}

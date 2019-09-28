@@ -1,0 +1,38 @@
+.other-panel {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px;
+    color: #000;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+
+    header {
+        font-weight: bold;
+    }
+
+    > div {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+
+        .time {
+            float: right;
+            margin-right: 5px;
+            font-size: 11px;
+            color: #777;
+        }
+        .inside-divider {
+            margin:  10px 0;
+        }
+    }
+    img {
+        width: 30px;
+        height: 30px;
+        border-radius: 3px;
+        margin-right: 5px;
+    }
+
+    .divider {
+        margin: 20px 0;
+    }
+}
