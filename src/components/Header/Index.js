@@ -34,7 +34,7 @@ function Header() {
                 <p>
                     源码：
                     <Icon type="star" theme="twoTone" twoToneColor="#eb2f96" />
-                    <a href="https://github.com/shuiRong/ReactCnodeJS" target="_blank" rel="nofollow noopener noreferrer" >
+                    <a href="https://github.com/huya123/ReactNode" target="_blank" rel="nofollow noopener noreferrer" >
                         ReactCnodeJS
                     </a>
                     <Icon type="star" theme="twoTone" twoToneColor="#eb2f96" />
