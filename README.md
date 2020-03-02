@@ -1,9 +1,15 @@
-### `npm start`
+### `npm install 安装依赖包`
 
-运行文件
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### `npm run start`
+
+运行项目
 
 ### `npm run build`
 
-文件打包
+项目打包
+
+![image](https://github.com/huya123/ReactNode/blob/master/public/1.png)
+
+![image](https://github.com/huya123/ReactNode/blob/master/public/2.png)
+
+![image](https://github.com/huya123/ReactNode/blob/master/public/3.png)
